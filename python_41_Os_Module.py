@@ -1,0 +1,16 @@
+import os
+# print(dir(os))
+# print(os.getcwd())
+# os.chdir("C://")
+# print(os.getcwd())
+# f=open("aditya.txt")
+# print(f)
+# print(os.listdir("C://"))
+# os.mkdir("Aditya")
+# os.makedirs("ADITYA/SINGH")
+# os.rename("Aditya.txt","aditya.txt")
+# print(os.environ.get('path'))
+print(os.path.join("C://","Aditya.txt"))
+
+print(os.path.exists("C://Program Files"))
+print(os.path.isfile("C://Program Files"))
